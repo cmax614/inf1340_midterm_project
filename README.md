@@ -1,4 +1,6 @@
-# inf1340_midterm
+# Inf1340_midterm
+# Teng-Chieh Chuang
+# 1004744752
 
 #Description
 This program takes a csv file containing information of a company's monthly stock prices, and can perfrom the following tasks:
