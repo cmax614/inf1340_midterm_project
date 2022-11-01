@@ -1,1 +1,26 @@
 #API documwntation
+
+def find_high(date_to_price)
+  This function takes a dictionary that maps the date to stock price, finds the highest price and its corresponding date and return
+  that price and date
+  argument: dictionary 
+  return: str(date), float(price)
+  
+def find_low(date_to_price)
+  This funtion takes a dictionary that maps the date to stock price, finds the lowest price and its corresponding date and return
+  that price and date
+  argument: dictionary 
+  return: str(date), float(price)
+  
+def find_mean_price(date_to_price)
+  This funtion takes a dictionary that maps the date to stock price, putting all the stock price into a list, calculates the average
+  and return the mean price
+  argument: dictionary
+  return: float(mean price)
+  
+def find_price(date_to_price, date)
+  This function takes a dictionary that maps the date to stock price, and a string date, it finds the given date in the dictionary and 
+  retrieve the stock price on that given date
+  argument: dictionary, string
+  return: float(price)
+ 
